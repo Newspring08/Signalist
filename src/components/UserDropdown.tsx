@@ -10,8 +10,7 @@ import {
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 import {useRouter} from "next/navigation";
 import {Button} from "@/components/ui/button";
-import {LogOut, LogOutIcon} from "lucide-react";
-import {NAV_ITEMS} from "@/lib/constants";
+import {LogOut} from "lucide-react";
 import Navbar from "@/components/Nav";
 
 const UserDropdown = () => {
