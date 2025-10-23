@@ -21,7 +21,7 @@ const UserDropdown = () => {
         router.push("/sign-in");
     };
 
-    const user = { name: "Emmanuel Solomon", email: "contactSignalist.com" }
+    const user = { name: "Emmanuel Solomon", email: "solomonemma013@gmail.com" }
     return (
         <DropdownMenu>
             <DropdownMenuTrigger asChild>
